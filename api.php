@@ -57,13 +57,14 @@ echo $size;
 //////////////////////////////////// PROSE PEMBUATAN FILE JSON ////////////////////////////////////
 //array multi-dimensi
 echo '<br />';
+//daftar mama domain client
 $array_aktif = Array (
     "0" => Array (
         "deadline_web" => "2022-10-24 23:59:59",
         "anggo.local" => "2022-12-24 23:59:59"
     )
 );
-
+//custom array
 $array_node = Array (
     "0" => Array (
         "jumlah_inode" => "$jumlah_inode",
