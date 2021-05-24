@@ -59,7 +59,7 @@ echo $size;
 echo '<br />';
 $array_aktif = Array (
     "0" => Array (
-        "deadline_web" => "2022-10-24 23:59:59"
+        "deadline_web" => "2023-10-24 23:59:59"
     )
 );
 
