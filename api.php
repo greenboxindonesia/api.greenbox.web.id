@@ -62,7 +62,8 @@ echo $size;
 $array_aktif = Array (
     "0" => Array (
         "deadline_web" => "2022-10-24 23:59:59",
-        "anggo.local" => "2022-12-24 23:59:59"
+        "anggo.local" => "2022-12-24 23:59:59",
+        "aank.my.id" => "2022-03-23 23:59:59"
     )
 );
 //custom array
