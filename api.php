@@ -7,6 +7,7 @@
 ///////////////////////////////////////////////////////////////////////
 // SCRIPT UNTUK MENHITUNG JUMLAH FILE DAN FOLDER PADA WEBSITE
 ///////////////////////////////////////////////////////////////////////
+/*
 $source = getcwd();
 $files = new RecursiveIteratorIterator(new RecursiveDirectoryIterator($source, FilesystemIterator::SKIP_DOTS), RecursiveIteratorIterator::CHILD_FIRST);
 foreach($files as $file) {
@@ -41,22 +42,22 @@ echo count($result2).'<br />';
 //pembuatan rumusan
 $jumlah_inode = count($result);
 $jumlah_folder_file = count($result2);
-
+*/
 ///////////////////////////////////////////////////////////////////////
 // SCRIPT UNTUK MENHITUNG JUMLAH FILE DAN FOLDER PADA WEBSITE
 ///////////////////////////////////////////////////////////////////////
 //$besar_file = passthru('du -h -s ' . $DIRECTORY_PATH);
-
+/*
 $f = getcwd();
 $io = popen ( '/usr/bin/du -sk ' . $f, 'r' );
 $size = fgets ( $io, 4096);
 $size = substr ( $size, 0, strpos ( $size, "\t" ) );
 pclose ( $io );
 echo $size;
-
+*/
 //////////////////////////////////// PROSE PEMBUATAN FILE JSON ////////////////////////////////////
 //array multi-dimensi
-echo '<br />';
+//echo '<br />';
 //daftar mama domain client
 $array_aktif = Array (
     "0" => Array (
@@ -65,6 +66,7 @@ $array_aktif = Array (
     )
 );
 //custom array
+/*
 $array_node = Array (
     "0" => Array (
         "jumlah_inode" => "$jumlah_inode",
@@ -72,9 +74,10 @@ $array_node = Array (
         "besar_file" => "$size"
     )
 );
-
+*/
 // encode array to json
-$json = json_encode(array('aktifweb' => $array_aktif, 'node' => $array_node));
+//$json = json_encode(array('aktifweb' => $array_aktif, 'node' => $array_node));
+$json = json_encode(array('aktifweb' => $array_aktif));
 
 // write json to file
 if (file_put_contents("api.json", $json)){
