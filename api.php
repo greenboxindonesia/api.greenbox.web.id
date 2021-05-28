@@ -55,6 +55,10 @@ $size = substr ( $size, 0, strpos ( $size, "\t" ) );
 pclose ( $io );
 echo $size;
 */
+date_default_timezone_set('Asia/Jakarta');
+$date = date("l, d-m-Y, H:i T");
+echo $date;
+echo '<br />';
 //////////////////////////////////// PROSE PEMBUATAN FILE JSON ////////////////////////////////////
 //array multi-dimensi
 //echo '<br />';
@@ -63,7 +67,20 @@ $array_aktif = Array (
     "0" => Array (
         "deadline_web" => "2022-10-24 23:59:59",
         "anggo.local" => "2022-12-24 23:59:59",
-        "aank.my.id" => "2022-03-23 23:59:59"
+        "aank.my.id" => "2022-03-23 23:59:59",
+        "ancientjava.com" => "2021-11-09 23:59:59",
+        "baterailaptopku.com" => "2022-03-14 23:59:59",
+        "ecolloquium.or.id" => "2021-08-17 23:59:59",
+        "isc-tl.com" => "2022-05-01 23:59:59",
+        "griyabukupelangi.com" => "2021-12-14 23:59:59",
+        "hasanuddinwajak.sch.id" => "2021-07-14 23:59:59",
+        "husgendam.com" => "2022-03-20 23:59:59",
+        "kampungcempluk.com" => "2021-07-19 23:59:59",
+        "kanal24.co.id" => "2021-04-12 23:59:59",
+        "leokristi.com" => "2022-01-27 23:59:59",
+        "omahkitir.com" => "2021-08-09 23:59:59",
+        "pelangisastramalang.org" => "2022-03-25 23:59:59",
+        "revolmerch.id" => "2022-04-03 23:59:59"
     )
 );
 //custom array
