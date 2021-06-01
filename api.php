@@ -124,7 +124,7 @@ $array_maintenance = Array (
 //custom array naintenance
 $array_backup = Array (
     "0" => Array (
-        "anggo.local" => "Tidak ada perawatan saat ini",
+        "anggo.local" => "Selasa, 01-06-2021, 15:27 WIB",
         "baterailaptopku.com" => "2022-03-14 23:59:59",
         "ecolloquium.or.id" => "2021-08-17 23:59:59",
         "isc-tl.com" => "2022-05-01 23:59:59",
