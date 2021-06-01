@@ -83,19 +83,66 @@ $array_aktif = Array (
         "revolmerch.id" => "2022-04-03 23:59:59"
     )
 );
-//custom array
-/*
-$array_node = Array (
+//custom array dev
+$array_dev = Array (
     "0" => Array (
-        "jumlah_inode" => "$jumlah_inode",
-        "jumlah_folder_file" => "$jumlah_folder_file",
-        "besar_file" => "$size"
+        "anggo.local" => "Tidak ada pengembangan saat ini",
+        "baterailaptopku.com" => "2022-03-14 23:59:59",
+        "ecolloquium.or.id" => "2021-08-17 23:59:59",
+        "isc-tl.com" => "2022-05-01 23:59:59",
+        "griyabukupelangi.com" => "2021-12-14 23:59:59",
+        "hasanuddinwajak.sch.id" => "2021-07-14 23:59:59",
+        "husgendam.com" => "2022-03-20 23:59:59",
+        "kampungcempluk.com" => "2021-07-19 23:59:59",
+        "kanal24.co.id" => "2021-04-12 23:59:59",
+        "leokristi.com" => "2022-01-27 23:59:59",
+        "omahkitir.com" => "2021-08-09 23:59:59",
+        "pelangisastramalang.org" => "2022-03-25 23:59:59",
+        "revolmerch.id" => "2022-04-03 23:59:59"
     )
 );
-*/
+
+//custom array naintenance
+$array_maintenance = Array (
+    "0" => Array (
+        "anggo.local" => "Tidak ada perawatan saat ini",
+        "baterailaptopku.com" => "2022-03-14 23:59:59",
+        "ecolloquium.or.id" => "2021-08-17 23:59:59",
+        "isc-tl.com" => "2022-05-01 23:59:59",
+        "griyabukupelangi.com" => "2021-12-14 23:59:59",
+        "hasanuddinwajak.sch.id" => "2021-07-14 23:59:59",
+        "husgendam.com" => "2022-03-20 23:59:59",
+        "kampungcempluk.com" => "2021-07-19 23:59:59",
+        "kanal24.co.id" => "2021-04-12 23:59:59",
+        "leokristi.com" => "2022-01-27 23:59:59",
+        "omahkitir.com" => "2021-08-09 23:59:59",
+        "pelangisastramalang.org" => "2022-03-25 23:59:59",
+        "revolmerch.id" => "2022-04-03 23:59:59"
+    )
+);
+
+//custom array naintenance
+$array_backup = Array (
+    "0" => Array (
+        "anggo.local" => "Tidak ada perawatan saat ini",
+        "baterailaptopku.com" => "2022-03-14 23:59:59",
+        "ecolloquium.or.id" => "2021-08-17 23:59:59",
+        "isc-tl.com" => "2022-05-01 23:59:59",
+        "griyabukupelangi.com" => "2021-12-14 23:59:59",
+        "hasanuddinwajak.sch.id" => "2021-07-14 23:59:59",
+        "husgendam.com" => "2022-03-20 23:59:59",
+        "kampungcempluk.com" => "2021-07-19 23:59:59",
+        "kanal24.co.id" => "2021-04-12 23:59:59",
+        "leokristi.com" => "2022-01-27 23:59:59",
+        "omahkitir.com" => "2021-08-09 23:59:59",
+        "pelangisastramalang.org" => "2022-03-25 23:59:59",
+        "revolmerch.id" => "2022-04-03 23:59:59"
+    )
+);
+
 // encode array to json
-//$json = json_encode(array('aktifweb' => $array_aktif, 'node' => $array_node));
-$json = json_encode(array('aktifweb' => $array_aktif));
+$json = json_encode(array('aktifweb' => $array_aktif, 'dev_web' => $array_dev, 'maintenance_web' => $array_maintenance, 'backup_web' => $array_backup));
+//$json = json_encode(array('aktifweb' => $array_aktif));
 
 // write json to file
 if (file_put_contents("api.json", $json)){
