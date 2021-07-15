@@ -79,7 +79,8 @@ $array_aktif = Array (
         "leokristi.com" => "2022-01-27 23:59:59",
         "omahkitir.com" => "2021-08-09 23:59:59",
         "pelangisastramalang.org" => "2022-03-25 23:59:59",
-        "revolmerch.id" => "2022-04-03 23:59:59"
+        "revolmerch.id" => "2022-04-03 23:59:59",
+        "mrblinkz.com" => "2022-07-07 23:59:59"
     )
 );
 //custom array dev
@@ -98,7 +99,8 @@ $array_dev = Array (
         "leokristi.com" => "Tidak ada pengembangan saat ini",
         "omahkitir.com" => "Tidak ada pengembangan saat ini",
         "pelangisastramalang.org" => "Tidak ada pengembangan saat ini",
-        "revolmerch.id" => "Tidak ada pengembangan saat ini"
+        "revolmerch.id" => "Tidak ada pengembangan saat ini",
+        "mrblinkz.com" => "Tidak ada pengembangan saat ini"
     )
 );
 
@@ -118,7 +120,8 @@ $array_maintenance = Array (
         "leokristi.com" => "Tidak ada perawatan saat ini",
         "omahkitir.com" => "Tidak ada perawatan saat ini",
         "pelangisastramalang.org" => "Tidak ada perawatan saat ini",
-        "revolmerch.id" => "Tidak ada perawatan saat ini"
+        "revolmerch.id" => "Tidak ada perawatan saat ini",
+        "mrblinkz.com" => "Tidak ada perawatan saat ini"
     )
 );
 
@@ -138,7 +141,8 @@ $array_backup = Array (
         "leokristi.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "omahkitir.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "pelangisastramalang.org" => "Selasa, 01-06-2021, 15:27 WIB",
-        "revolmerch.id" => "Selasa, 01-06-2021, 15:27 WIB"
+        "revolmerch.id" => "Selasa, 01-06-2021, 15:27 WIB",
+        "mrblinkz.com" => "Kamis, 15-07-2021, 15:27 WIB"
     )
 );
 
