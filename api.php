@@ -86,7 +86,7 @@ $array_aktif = Array (
 //custom array dev
 $array_dev = Array (
     "0" => Array (
-        "anggo.local" => "https://api.greenbox.web.id/development/anggo/FC25D.pdf",
+        "anggo.local" => "https://api.greenbox.web.id/development/anggo/changelog.txt",
         "aank.my.id" => "Tidak ada pengembangan saat ini",
         "baterailaptopku.com" => "Tidak ada pengembangan saat ini",
         "ecolloquium.or.id" => "Tidak ada pengembangan saat ini",
