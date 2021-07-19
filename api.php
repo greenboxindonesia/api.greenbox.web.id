@@ -86,7 +86,7 @@ $array_aktif = Array (
 //custom array dev
 $array_dev = Array (
     "0" => Array (
-        "anggo.local" => "Tidak ada pengembangan saat ini",
+        "anggo.local" => "href=FC25D.pdf",
         "aank.my.id" => "Tidak ada pengembangan saat ini",
         "baterailaptopku.com" => "Tidak ada pengembangan saat ini",
         "ecolloquium.or.id" => "Tidak ada pengembangan saat ini",
