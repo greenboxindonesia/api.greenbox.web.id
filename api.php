@@ -142,7 +142,7 @@ $array_backup = Array (
         "omahkitir.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "pelangisastramalang.org" => "Selasa, 01-06-2021, 15:27 WIB",
         "revolmerch.id" => "Selasa, 01-06-2021, 15:27 WIB",
-        "mrblinkz.com" => "Kamis, 15-07-2021, 15:27 WIB"
+        "mrblinkz.com" => "Rabu, 21-07-2021, 00:45 WIB"
     )
 );
 
