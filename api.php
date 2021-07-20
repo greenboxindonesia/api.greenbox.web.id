@@ -87,20 +87,20 @@ $array_aktif = Array (
 $array_dev = Array (
     "0" => Array (
         "anggo.local" => "https://api.greenbox.web.id/clients/alpha/changelog.txt",
-        "aank.my.id" => "Tidak ada pengembangan saat ini",
-        "baterailaptopku.com" => "Tidak ada pengembangan saat ini",
-        "ecolloquium.or.id" => "Tidak ada pengembangan saat ini",
-        "isc-tl.com" => "Tidak ada pengembangan saat ini",
-        "griyabukupelangi.com" => "Tidak ada pengembangan saat ini",
-        "hasanuddinwajak.sch.id" => "Tidak ada pengembangan saat ini",
-        "husgendam.com" => "Tidak ada pengembangan saat ini",
-        "kampungcempluk.com" => "Tidak ada pengembangan saat ini",
-        "kanal24.co.id" => "Tidak ada pengembangan saat ini",
-        "leokristi.com" => "Tidak ada pengembangan saat ini",
-        "omahkitir.com" => "Tidak ada pengembangan saat ini",
-        "pelangisastramalang.org" => "Tidak ada pengembangan saat ini",
-        "revolmerch.id" => "Tidak ada pengembangan saat ini",
-        "mrblinkz.com" => "Tidak ada pengembangan saat ini"
+        "aank.my.id" => "https://api.greenbox.web.id/clients/aank.my.id/changelog.txt",
+        "baterailaptopku.com" => "https://api.greenbox.web.id/clients/baterailaptopku.com/changelog.txt",
+        "ecolloquium.or.id" => "https://api.greenbox.web.id/clients/ecolloquium.or.id/changelog.txt",
+        "isc-tl.com" => "https://api.greenbox.web.id/clients/isc-tl.com/changelog.txt",
+        "griyabukupelangi.com" => "https://api.greenbox.web.id/clients/griyabukupelangi.com/changelog.txt",
+        "hasanuddinwajak.sch.id" => "https://api.greenbox.web.id/clients/hasanuddinwajak.sch.id/changelog.txt",
+        "husgendam.com" => "https://api.greenbox.web.id/clients/husgendam.com/changelog.txt",
+        "kampungcempluk.com" => "https://api.greenbox.web.id/clients/kampungcempluk.com/changelog.txt",
+        "kanal24.co.id" => "https://api.greenbox.web.id/clients/kanal24.co.id/changelog.txt",
+        "leokristi.com" => "https://api.greenbox.web.id/clients/leokristi.com/changelog.txt",
+        "omahkitir.com" => "https://api.greenbox.web.id/clients/omahkitir.com/changelog.txt",
+        "pelangisastramalang.org" => "https://api.greenbox.web.id/pelangisastramalang.org/alpha/changelog.txt",
+        "revolmerch.id" => "https://api.greenbox.web.id/clients/revolmerch.id/changelog.txt",
+        "mrblinkz.com" => "https://api.greenbox.web.id/clients/mrblinkz.com/changelog.txt"
     )
 );
 
