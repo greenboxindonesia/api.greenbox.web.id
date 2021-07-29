@@ -121,7 +121,7 @@ $array_maintenance = Array (
         "omahkitir.com" => "Tidak ada perawatan saat ini",
         "pelangisastramalang.org" => "Tidak ada perawatan saat ini",
         "revolmerch.id" => "Tidak ada perawatan saat ini",
-        "mrblinkz.com" => "Tidak ada perawatan saat ini"
+        "mrblinkz.com" => "Pemasangan Google Analytic"
     )
 );
 

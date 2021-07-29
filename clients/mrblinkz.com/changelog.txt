@@ -1,4 +1,4 @@
-PLATFORM CMS (CONTEN MANAGEMEN SYSTEM) WORDPRESS
+PLATFORM CMS (CONTENT MANAGEMENT SYSTEM) WORDPRESS
 =========================================================
 Last Update 29-07-2021
 1. Wordpress Version 5.8
