@@ -16,6 +16,9 @@ Last Update 29-07-2021
 THEMES UPDATE VERSION
 =========================================================
 Last Update 29-07-2021
+v3.6.7
+- Fix: Installing Starter Templates plugin notice's "Get Started" button not working.
+
 v3.6.6
 - Fix: Installing Starter Templates plugin notice's "Get Started" button not working.
 
