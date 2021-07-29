@@ -1,3 +1,35 @@
+PLATFORM CMS (CONTEN MANAGEMEN SYSTEM) WORDPRESS
+=========================================================
+Last Update 29-07-2021
+1. Wordpress Version 5.8
+
+PLUGIN/ MODUL UPDATE VERSION 
+=========================================================
+Last Update 29-07-2021
+1.  Astra Pro Version Version 3.5.6 
+2.  Elementor Version 3.3.1
+3.  Elementor Pro Version 3.3.4
+4.  Greenbox Info Version 2.2
+5.  PowerPack Pro for Elementor Version 2.5.0
+6.  WPForms Lite Version 1.6.8.1
+
+THEMES UPDATE VERSION
+=========================================================
+Last Update 29-07-2021
+v3.6.6
+- Fix: Installing Starter Templates plugin notice's "Get Started" button not working.
+
+v3.6.5
+- Improvement: Compatibility with WordPress 5.8.
+- Improvement: Added default styling for - Site Logo, Site Tagline, Login/out and Search blocks.
+- Improvement: Widget Element - block editor and design section added.
+- Improvement: Theme support added for Rank Math plugin - breadcrumbs module.
+- Fix: Customizer not working due to conflict with block editor JS.
+- Fix: Alignment of title and content in the editor.
+- Fix: WP 5.8 UI conflict with extra control spacing and section title font in the customizer.
+- Fix: Widget page block editor width not appearing properly.
+- Fix: Headers showing border even though its not set from customizer in FireFox browser.
+
 v3.6.4
 - Improvement: Introducing content links underline option.
 
