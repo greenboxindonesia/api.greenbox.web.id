@@ -120,7 +120,7 @@ $array_maintenance = Array (
         "leokristi.com" => "Tidak ada perawatan saat ini",
         "omahkitir.com" => "Tidak ada perawatan saat ini",
         "pelangisastramalang.org" => "Tidak ada perawatan saat ini",
-        "revolmerch.id" => "Tidak ada perawatan saat ini",
+        "revolmerch.id" => "Update Modul & Plugin 14/09/21 Done",
         "mrblinkz.com" => "Update Modul & Plugin 11/09/21 Done"
     )
 );
@@ -141,7 +141,7 @@ $array_backup = Array (
         "leokristi.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "omahkitir.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "pelangisastramalang.org" => "Selasa, 01-06-2021, 15:27 WIB",
-        "revolmerch.id" => "Selasa, 01-06-2021, 15:27 WIB",
+        "revolmerch.id" => "Selasa, 14-09-2021, 11:27 WIB",
         "mrblinkz.com" => "Kamis, 29-07-2021, 14:00 WIB"
     )
 );

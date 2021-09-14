@@ -1,9 +1,30 @@
 PLATFORM CMS (CONTENT MANAGEMENT SYSTEM) WORDPRESS
 =========================================================
+Last Update 14-09-2021
+1. Wordpress Version 5.8.1
+
 Last Update 29-07-2021
-1. Wordpress Version 5.8
+1. Wordpress Version 5.7
 
 PLUGIN/ MODUL UPDATE VERSION 
+=========================================================
+Last Update 14-09-2021
+1.  Akismet Anti-Spam Version 4.1.12
+2.  Git Updater Version 10.5.2
+3.  Import / Export Customizer Settings Version 1.0.5 
+4.  WP Mail SMTP Version 3.0.3
+5.  WPForms Lite Version 1.6.9
+6.  Astra Pro Version 3.5.9
+7.  Elementor Version 3.4.4
+8.  Elementor Pro Version 3.4.1
+9.  PowerPack Pro for Elementor Version 2.5.1
+10. Smart WooCommerce Search Version 2.2.5
+11. WooCommerce Version 5.6.0
+12. Variation Swatcher for WooCommerce Version 1.0.11
+13. Perubahan API Whatsapp
+14. Custom Fonts Version 1.3.3
+15. Git Updater - GitLab Version 1.1.0
+16. Penambahan Plugin Greenbox Info Version 2.2.1
 =========================================================
 Last Update 29-07-2021
 1.  Astra Pro Version Version 3.5.6 
@@ -15,6 +36,14 @@ Last Update 29-07-2021
 
 THEMES UPDATE VERSION
 =========================================================
+NOTE:
+Last Update 14-09-2021
+Untuk changelog (catatan perubahan dan pengembangan) pada themes bisa di lihat pada menu Greenbox Info pada menu Changelog Update
+
+Last Update 11-09-2021
+Version: 3.6.9
+Detail update bisa dilihat pada menu Greenbox Info pada menu Changelog Update
+
 Last Update 29-07-2021
 v3.6.7
 - Improvement: Rendered Addon dependent toggle code conditionally and removed unwanted code.

@@ -31,6 +31,10 @@ Last Update 29-07-2021
 
 THEMES UPDATE VERSION
 =========================================================
+NOTE:
+Last Update 14-09-2021
+Untuk changelog (catatan perubahan dan pengembangan) pada themes bisa di lihat pada menu Greenbox Info pada menu Changelog Update
+
 Last Update 11-09-2021
 Version: 3.6.9
 Detail update bisa dilihat pada menu Greenbox Info pada menu Changelog Update
