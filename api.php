@@ -121,7 +121,7 @@ $array_maintenance = Array (
         "omahkitir.com" => "Tidak ada perawatan saat ini",
         "pelangisastramalang.org" => "Tidak ada perawatan saat ini",
         "revolmerch.id" => "Update Modul & Plugin 14/09/21 Done",
-        "mrblinkz.com" => "Update Modul & Plugin 11/09/21 Done"
+        "mrblinkz.com" => "Update Content & Plugin 22/10/21 Done"
     )
 );
 

@@ -1,9 +1,21 @@
+=========================================================
 PLATFORM CMS (CONTENT MANAGEMENT SYSTEM) WORDPRESS
+=========================================================
+Last Update 22-10-2021
+1. Update content post/ artikel
+2. Update content product (on progress)
 =========================================================
 Last Update 29-07-2021
 1. Wordpress Version 5.8
 
+=========================================================
 PLUGIN/ MODUL UPDATE VERSION 
+=========================================================
+Last Update 22-10-2021
+1. Elementor Version 3.4.4
+2. Elementor Pro Version 3.4.1
+3. Prime Slider Version 1.14.3
+4. WPForms Lite Version 1.6.9
 =========================================================
 Last Update 11-09-2021
 1. Akismet Anti-Spam Version 4.1.12
@@ -26,6 +38,7 @@ Last Update 29-07-2021
 5.  PowerPack Pro for Elementor Version 2.5.0
 6.  WPForms Lite Version 1.6.8.1
 
+=========================================================
 THEMES UPDATE VERSION
 =========================================================
 Last Update 11-09-2021
