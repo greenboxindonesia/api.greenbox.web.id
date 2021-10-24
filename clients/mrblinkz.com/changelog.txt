@@ -1,15 +1,22 @@
 =========================================================
 PLATFORM CMS (CONTENT MANAGEMENT SYSTEM) WORDPRESS
 =========================================================
+Last Update 24-10-2021
+1. Finishing Update content product
+=========================================================
 Last Update 22-10-2021
 1. Update content post/ artikel
-2. Update content product (on progress)
+2. Update content product
 =========================================================
 Last Update 29-07-2021
 1. Wordpress Version 5.8
 
 =========================================================
 PLUGIN/ MODUL UPDATE VERSION 
+=========================================================
+Last Update 24-10-2021
+1. Git Updater Version 10.6.5
+2. PowerPack Pro for Elementor Version 2.6.0
 =========================================================
 Last Update 22-10-2021
 1. Elementor Version 3.4.4
