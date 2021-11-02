@@ -80,7 +80,8 @@ $array_aktif = Array (
         "omahkitir.com" => "2021-08-09 23:59:59",
         "pelangisastramalang.org" => "2022-03-25 23:59:59",
         "revolmerch.id" => "2022-04-03 23:59:59",
-        "mrblinkz.com" => "2022-07-07 23:59:59"
+        "mrblinkz.com" => "2022-07-07 23:59:59",
+        "lav-fis.web.id" => "2022-10-15 23:59:59"
     )
 );
 //custom array dev
@@ -100,7 +101,8 @@ $array_dev = Array (
         "omahkitir.com" => "https://api.greenbox.web.id/clients/omahkitir.com/changelog.txt",
         "pelangisastramalang.org" => "https://api.greenbox.web.id/pelangisastramalang.org/alpha/changelog.txt",
         "revolmerch.id" => "https://api.greenbox.web.id/clients/revolmerch.id/changelog.txt",
-        "mrblinkz.com" => "https://api.greenbox.web.id/clients/mrblinkz.com/changelog.txt"
+        "mrblinkz.com" => "https://api.greenbox.web.id/clients/mrblinkz.com/changelog.txt",
+        "lav-fis.web.id" => "https://api.greenbox.web.id/clients/lav-fis.web.id/changelog.txt"
     )
 );
 
@@ -121,7 +123,8 @@ $array_maintenance = Array (
         "omahkitir.com" => "Tidak ada perawatan saat ini",
         "pelangisastramalang.org" => "Tidak ada perawatan saat ini",
         "revolmerch.id" => "Update Modul & Plugin 14/09/21 Done",
-        "mrblinkz.com" => "Update Content & Plugin 24/10/21 Done"
+        "mrblinkz.com" => "Update Content & Plugin 24/10/21 Done",
+        "lav-fis.web.id" => "Update & Release 20/11/21 Done"
     )
 );
 
@@ -142,7 +145,8 @@ $array_backup = Array (
         "omahkitir.com" => "Selasa, 01-06-2021, 15:27 WIB",
         "pelangisastramalang.org" => "Selasa, 01-06-2021, 15:27 WIB",
         "revolmerch.id" => "Selasa, 14-09-2021, 11:27 WIB",
-        "mrblinkz.com" => "Minggu, 24-10-2021, 14:00 WIB"
+        "mrblinkz.com" => "Minggu, 24-10-2021, 14:00 WIB",
+        "lav-fis.web.id" => "Sabtu, 20-11-2021, 00:00 WIB"
     )
 );
 
