@@ -1,6 +1,9 @@
 =========================================================
 PLATFORM CMS (CONTENT MANAGEMENT SYSTEM) WORDPRESS
 =========================================================
+Last Update 16-12-2021
+1. Update content Artikel Post
+=========================================================
 Last Update 24-10-2021
 1. Finishing Update content product
 =========================================================
@@ -13,6 +16,20 @@ Last Update 29-07-2021
 
 =========================================================
 PLUGIN/ MODUL UPDATE VERSION 
+=========================================================
+Last Update 16-12-2021
+1. Astra Pro Version 3.6.3
+2. Ele Custom Skin Version 3.1.4
+3. Elementor Version 3.5.0
+4. Elementor Pro Version 3.5.2
+5. Elementor Header & Footer Builder Version 1.6.5
+6. Greenbox Info Version 2.2.2
+7. LiteSpeed Cache Version 4.4.5
+8. PowerPack Pro for Elementor Version 2.7.4
+9. Prime Slider Version 2.3.1
+10. WPForms Lite Version 1.7.1.2
+11. Yoast SEO Version 17.8
+12. Yoast SEO Premium Version 17.5
 =========================================================
 Last Update 24-10-2021
 1. Git Updater Version 10.6.5
